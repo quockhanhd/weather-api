@@ -6,4 +6,4 @@ set FLASK_APP=my-app.py
 flask run
 ```
 ##### Demo:
-http://127.0.0.1:5000/ha noi
+http://127.0.0.1:5000/ha%20noi
