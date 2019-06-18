@@ -5,3 +5,5 @@ A small python script that outputs the weather from Openweathermap in the reques
 set FLASK_APP=my-app.py
 flask run
 ```
+##### Demo:
+http://127.0.0.1:5000/ha noi
